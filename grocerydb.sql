@@ -1,0 +1,1 @@
+SELECT * FROM grocerystore.order_details;
